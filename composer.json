@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Contao\\ContaoReferenzenBundle\\": "src/"
+            "Zettleer\\ContaoReferenzenBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Contao\\ContaoReferenzenBundle\\Tests\\": "tests/"
+            "Zettleer\\ContaoReferenzenBundle\\Tests\\": "tests/"
         }
     },
     "support": {
